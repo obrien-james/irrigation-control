@@ -1,2 +1,2 @@
-# irrigation-control
+# Irrigation-control
 RaspberryPi Irrigation controller
